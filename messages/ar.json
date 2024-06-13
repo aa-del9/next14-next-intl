@@ -1,0 +1,13 @@
+{
+  "Index": {
+    "title": "مرحبا بالعالم!"
+  },
+  "Metadata": {
+    "title": "تدويل NextJS"
+  },
+  "select": {
+    "title": "اختر لغتك",
+    "en": "English",
+    "ar": "العربية"
+  }
+}

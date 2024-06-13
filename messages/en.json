@@ -1,0 +1,13 @@
+{
+  "Index": {
+    "title": "Hello world!"
+  },
+  "Metadata": {
+    "title": "NextJS Internationalization"
+  },
+  "select": {
+    "title": "Select your language",
+    "en": "English",
+    "ar": "العربية"
+  }
+}
